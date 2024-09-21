@@ -1,1 +1,0 @@
-#2.	Cricket Game: Users can choose between three options: Bat, Ball, and Stamp. The computer also selects an option, and the winner is determined based on predefined rules. The entire game is built using HTML, CSS, and JavaScript.
